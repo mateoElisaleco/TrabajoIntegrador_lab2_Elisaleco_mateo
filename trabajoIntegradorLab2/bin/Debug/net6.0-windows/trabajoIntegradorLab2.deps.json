@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "trabajoIntegradorLab2/1.0.0": {
+        "runtime": {
+          "trabajoIntegradorLab2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabajoIntegradorLab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

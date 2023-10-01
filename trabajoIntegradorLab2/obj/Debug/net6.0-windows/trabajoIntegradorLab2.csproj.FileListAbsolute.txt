@@ -1,0 +1,16 @@
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\bin\Debug\net6.0-windows\trabajoIntegradorLab2.exe
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\bin\Debug\net6.0-windows\trabajoIntegradorLab2.deps.json
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\bin\Debug\net6.0-windows\trabajoIntegradorLab2.runtimeconfig.json
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\bin\Debug\net6.0-windows\trabajoIntegradorLab2.dll
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\bin\Debug\net6.0-windows\trabajoIntegradorLab2.pdb
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\trabajoIntegradorLab2.FrmCalculadora.resources
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\trabajoIntegradorLab2.csproj.GenerateResource.cache
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\trabajoIntegradorLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\trabajoIntegradorLab2.AssemblyInfoInputs.cache
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\trabajoIntegradorLab2.AssemblyInfo.cs
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\trabajoIntegradorLab2.csproj.CoreCompileInputs.cache
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\trabajoIntegradorLab2.dll
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\refint\trabajoIntegradorLab2.dll
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\trabajoIntegradorLab2.pdb
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\trabajoIntegradorLab2.genruntimeconfig.cache
+C:\Users\Mateo Elisaleco\Desktop\mate\utn\lab 2\Proyectos\calculadora\trabajoIntegradorLab2\trabajoIntegradorLab2\obj\Debug\net6.0-windows\ref\trabajoIntegradorLab2.dll
